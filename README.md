@@ -1,7 +1,7 @@
-## Hey, ouuan here! :wave:
+## Hey, Lemonsuan here! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lemonsuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lemonsuan&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 I'm Y**ou** Y**u**f**an**, a freshman at THU.
 
@@ -11,8 +11,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 -   :man: Pronouns: he/him
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
-
+<!-- -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+ -->
 ---
 
 
